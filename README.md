@@ -25,6 +25,12 @@ export OPENAI_API_KEY=TODO-YOUR-API-KEY-HERE
 - [models.json](./models.json)
 - [models.txt](./models.txt)
 
+## Leaked Model Controversy
+
+You can read more about my running notes/research around the leaked model, how it was taken down, and the supposed existence of a new model (though that situation seems super scammy) here:
+
+- [leaked-model.md](./leaked-model.md)
+
 ## See Also
 
 - https://github.com/openai/openai-node
