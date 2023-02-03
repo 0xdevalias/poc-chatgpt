@@ -81,3 +81,13 @@ https://gist.github.com/PawanOsman/be803be44caed2449927860956b240ad
 Ha.. so.. seems at least some of the peoples plan now is to try and hack OpenAI to figure out what the new model name is called.. that's going to end well.....
 
 https://github.com/acheong08/ChatGPT/issues/530#issuecomment-1414584094
+
+---
+
+**2023-02-03 12:58pm AEDT**
+
+> > I do not share the model name to prevent OpenAI remove it soon
+>
+> That is pretty much a lie. The use of the model was given the green light by OpenAI devs to one of our discord community members. They simply update the model every week but we lost access to the info leak that allowed us to get the model name.
+>
+> _Originally posted by @acheong08 in https://github.com/acheong08/ChatGPT/issues/517#issuecomment-1414572152_
