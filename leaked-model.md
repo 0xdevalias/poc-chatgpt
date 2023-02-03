@@ -73,3 +73,11 @@ They claim to have made a web service that people can use with their OpenAI API 
 Sounds super scammy to me.. but.. here's the gist anyways..
 
 https://gist.github.com/PawanOsman/be803be44caed2449927860956b240ad
+
+---
+
+**2023-02-03 12:54pm AEDT**
+
+Ha.. so.. seems at least some of the peoples plan now is to try and hack OpenAI to figure out what the new model name is called.. that's going to end well.....
+
+https://github.com/acheong08/ChatGPT/issues/530#issuecomment-1414584094
