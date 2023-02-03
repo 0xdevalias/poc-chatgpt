@@ -9,6 +9,22 @@ export OPENAI_API_KEY=TODO-YOUR-API-KEY-HERE
 node index.js
 ```
 
+List available models:
+
+```bash
+# https://platform.openai.com/account/api-keys
+export OPENAI_API_KEY=TODO-YOUR-API-KEY-HERE
+
+# Fetch all the model data
+⇒ curl https://api.openai.com/v1/models -H "Authorization: Bearer $OPENAI_API_KEY" > models.json
+
+# Extract just the model names from the model data
+⇒ jq -r '.data[].id' models.json > models.txt
+```
+
+- [models.json](./models.json)
+- [models.txt](./models.txt)
+
 ## See Also
 
 - https://github.com/openai/openai-node
