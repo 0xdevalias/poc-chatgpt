@@ -91,3 +91,19 @@ https://github.com/acheong08/ChatGPT/issues/530#issuecomment-1414584094
 > That is pretty much a lie. The use of the model was given the green light by OpenAI devs to one of our discord community members. They simply update the model every week but we lost access to the info leak that allowed us to get the model name.
 >
 > _Originally posted by @acheong08 in https://github.com/acheong08/ChatGPT/issues/517#issuecomment-1414572152_
+
+---
+
+**2023-02-03 12:58pm AEDT**
+
+Shared a link to this file on Twitter:
+
+- https://twitter.com/_devalias/status/1621328218170195969
+
+> Did you hear that OpenAI's ChatGPT API model got leaked? And then taken down? And then supposedly a new one is out there?
+>
+> Here's my running notes/research if you want to keep up to date:
+>
+> https://github.com/0xdevalias/poc-chatgpt#leaked-model-controversy
+>
+> Also would appreciate any tips/insights I can add to it too!
