@@ -6,7 +6,7 @@ Oldest notes (based on time I captured them) at the top, newest notes at the bot
 
 ---
 
-2023-02-03 09:53am AEDT
+**2023-02-03 09:53am AEDT**
 
 ChatGPT Plus officially announced (edit: and apparently the official API has been leaked too):
 
@@ -20,7 +20,7 @@ ChatGPT API Waitlist: https://share.hsforms.com/1u4goaXwDRKC9-x9IvKno0A4sk30
 
 ---
 
-2023-02-03 09:53am AEDT
+**2023-02-03 09:53am AEDT**
 
 Edit: Also seems like the official ChatGPT API has been leaked too.. haven't looked too deeply into it all yet, but here are the few references I found so far:
 
@@ -32,13 +32,13 @@ https://github.com/acheong08/ChatGPT/blob/main/src/revChatGPT/Official.py#L13
 
 ---
 
-2023-02-03 10:46am AEDT
+**2023-02-03 10:46am AEDT**
 
 Playing around with attempting to call the supposed leaked official API; so far not looking promising.. unless i'm missing something..
 
 ---
 
-2023-02-03 10:56am AEDT
+**2023-02-03 10:56am AEDT**
 
 Looks like it's already been taken down according to this thread: https://github.com/acheong08/ChatGPT/issues/523
 
@@ -46,7 +46,7 @@ And the related issues I linked to here: https://github.com/acheong08/ChatGPT/is
 
 ---
 
-2023-02-03 11:24am AEDT
+**2023-02-03 11:24am AEDT**
 
 Though someone apparently claims to have found the new model name already.. just isn't publicly known/released yet..
 
@@ -54,7 +54,7 @@ https://github.com/waylaidwanderer/node-chatgpt-api#update-2023-02-02
 
 ---
 
-2023-02-03 11:30am AEDT
+**2023-02-03 11:30am AEDT**
 
 Here's my little PoC repo anyways: https://github.com/0xdevalias/poc-chatgpt
 
@@ -64,7 +64,7 @@ And the full JSON returned for each of those: https://github.com/0xdevalias/poc-
 
 ---
 
-2023-02-03 11:57am AEDT
+**2023-02-03 11:57am AEDT**
 
 Here's the source of the person who apparently figured out the new model: https://github.com/PawanOsman/ChatGPT-Official/issues/1#issuecomment-1414402940
 
