@@ -107,3 +107,11 @@ Shared a link to this file on Twitter:
 > https://github.com/0xdevalias/poc-chatgpt#leaked-model-controversy
 >
 > Also would appreciate any tips/insights I can add to it too!
+
+---
+
+**2023-02-03 07:05am AEDT**
+
+> `text-chat-davinci-002-20230126` is down for me the whole time. But `text-chat-davinci-002-20221122` is up for me
+>
+> _Originally posted by @Cellenseres in https://github.com/fuergaosi233/wechat-chatgpt/issues/524#issuecomment-1416839085_
