@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "update-models": "./scripts/update_models.sh",
+    "update-models": "./scripts/update_models.sh && ./scripts/extract_models_by_owned_by.sh",
     "extract-models-by-owned-by": "./scripts/extract_models_by_owned_by.sh",
     "update-engines": "./scripts/update_engines.sh"
   },
