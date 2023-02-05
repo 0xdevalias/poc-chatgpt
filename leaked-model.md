@@ -291,3 +291,13 @@ Shared a link to this file on Twitter:
 > The error implies that the input data is not supposed to be text but audio. I would say it's a coincidence. The `text-chat-davinci-002-xxxxxxx` models never shows up on the models API endpoint anyways
 >
 > _Originally posted by @acheong08 in https://github.com/acheong08/ChatGPT/issues/517#issuecomment-1416911673_
+
+---
+
+**2023-02-05 04:18pm AEDT**
+
+> What's that? ChatGPT `[private alpha - confidential]`? But i'm not even part of ChatGPT Plus.. Is it still confidential if I am just reading publicly available minified source code? 🤔
+>
+> I wouldn't mind using a 'Web search' or 'Calculator' though..
+>
+> _Originally posted by @_devalias in https://twitter.com/_devalias/status/1622102312994099200_
