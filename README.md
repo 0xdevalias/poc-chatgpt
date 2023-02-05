@@ -25,6 +25,16 @@ jq -r '.data[].id' models.json > models.txt
 - [models.json](./models.json)
 - [models.txt](./models.txt)
 
+Get details for a single model ([Ref](https://platform.openai.com/docs/api-reference/models/retrieve)):
+
+```bash
+# https://platform.openai.com/account/api-keys
+export OPENAI_API_KEY=TODO-YOUR-API-KEY-HERE
+
+# Fetch a specific model's data
+curl https://api.openai.com/v1/models/TODO-MODEL-ID-HERE -H "Authorization: Bearer $OPENAI_API_KEY" > models.json
+```
+
 ## Leaked Model Controversy
 
 You can read more about my running notes/research around the leaked model, how it was taken down, and the supposed existence of a new model (though that situation seems super scammy) here:
