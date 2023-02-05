@@ -234,3 +234,46 @@ Shared a link to this file on Twitter:
 > `text-chat-davinci-002-20230126` is down for me the whole time. But `text-chat-davinci-002-20221122` is up for me
 >
 > _Originally posted by @Cellenseres in https://github.com/fuergaosi233/wechat-chatgpt/issues/524#issuecomment-1416839085_
+
+---
+
+**2023-02-05 02:15pm AEDT**
+
+> > > Are you saying it still has the same date and just different name?
+> >
+> > I already said that in discord Yeah **the new model has the same date with a new name**, its looks like just renamed not removed
+>
+> I've just been playing around with updating some of my scripts/research/etc in my PoC ChatGPT repo this morning:
+>
+> - https://github.com/0xdevalias/poc-chatgpt
+>   - https://github.com/0xdevalias/poc-chatgpt/commits/main
+>
+> And if you look at [this commit](https://github.com/0xdevalias/poc-chatgpt/commit/eb5402f0dbb8b3fc0f097730caaf313fd5d00841#diff-14320db0cda56b30dc6a26c1e5e53bfc5b52c61926d54759ddecd02663bf5b1aR1), you can see that when I extracted/sorted the output of `/v1/models` by created date, there is one at the top which curiously seems to share a date (`20230126`) with the original leaked model (`text-chat-davinci-002-20230126`):
+>
+> ```
+> 2023-01-26T23:36:25Z audio-transcribe-deprecated
+> ```
+>
+> Though if I try and use it with the completions API, I get an error:
+>
+> ```bash
+> ⇒ curl https://api.openai.com/v1/completions -H 'Content-Type: application/json' -H "Authorization: Bearer $OPENAI_API_KEY" -d '{
+>   "model": "audio-transcribe-deprecated",
+>   "prompt": "Say this is a test",
+>   "max_tokens": 7,
+>   "temperature": 0
+> }'
+>
+> {
+>   "error": {
+>     "message": "The server had an error processing your request. Sorry about that! You can retry your request, or contact support@openai.com if you keep seeing this error. (Please include the request ID 316fc3215fa0a3278824c35138d3665a in your email.)",
+>     "type": "server_error",
+>     "param": null,
+>     "code": null
+>   }
+> }
+> ```
+>
+> Could be a coincidence.. but figured I would include the info here in case it's helpful to anyone.
+>
+> _Originally posted by @0xdevalias in https://github.com/acheong08/ChatGPT/issues/517#issuecomment-1416911061_
