@@ -31,6 +31,11 @@ You can read more about my running notes/research around the leaked model, how i
 
 - [leaked-model.md](./leaked-model.md)
 
+The following leaked model names have been found, and may or may not still be working:
+
+- `text-chat-davinci-002-20230126`
+- `text-chat-davinci-002-20221122`
+
 ## See Also
 
 - https://github.com/openai/openai-node
