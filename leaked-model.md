@@ -187,7 +187,7 @@ Shared a link to this file on Twitter:
 
 ---
 
-**2023-02-03 07:05am AEDT**
+**2023-02-05 07:05am AEDT**
 
 > `text-chat-davinci-002-20230126` is down for me the whole time. But `text-chat-davinci-002-20221122` is up for me
 >
