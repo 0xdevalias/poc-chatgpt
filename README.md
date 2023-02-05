@@ -29,8 +29,13 @@ jq -r '.data[].id' models.json > models.txt
 ```
 
 - [`models.json`](./models.json)
-- [`models.txt`](./models.txt)
-- [`models_by_owned_by.json`](./models_by_owned_by.json)
+  - [`models.txt`](./models.txt)
+  - [`models_by_owned_by.json`](./models_by_owned_by.json)
+    - [`./models_openai.txt`](./models_openai.txt)
+    - [`./models_openai-dev.txt`](./models_openai-dev.txt)
+    - [`./models_openai-internal.txt`](./models_openai-internal.txt)
+    - [`./models_system.txt`](./models_system.txt)
+
 
 Get details for a single model ([Ref](https://platform.openai.com/docs/api-reference/models/retrieve)):
 
@@ -59,7 +64,7 @@ jq -r '.data[].id' engines.json > engines.txt
 ```
 
 - [`engines.json`](./engines.json)
-- [`engines.txt`](./engines.txt)
+  - [`engines.txt`](./engines.txt)
 
 Get details for a single engine (deprecated) ([Ref](https://platform.openai.com/docs/api-reference/engines/retrieve)):
 
