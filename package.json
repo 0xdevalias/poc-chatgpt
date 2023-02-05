@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "update-models": "./scripts/update_models.sh",
     "extract-models-by-owned-by": "./scripts/extract_models_by_owned_by.sh",
-    "update-engines": "echo 'Updating engines.json / engines.txt' && curl --silent https://api.openai.com/v1/engines -H \"Authorization: Bearer $OPENAI_API_KEY\" > engines.json && jq -r '.data[].id' engines.json > engines.txt && echo 'Done!'"
+    "update-engines": "./scripts/update_engines.sh"
   },
   "author": "",
   "license": "MIT",
