@@ -16,10 +16,10 @@ List available models:
 export OPENAI_API_KEY=TODO-YOUR-API-KEY-HERE
 
 # Fetch all the model data
-⇒ curl https://api.openai.com/v1/models -H "Authorization: Bearer $OPENAI_API_KEY" > models.json
+curl https://api.openai.com/v1/models -H "Authorization: Bearer $OPENAI_API_KEY" > models.json
 
 # Extract just the model names from the model data
-⇒ jq -r '.data[].id' models.json > models.txt
+jq -r '.data[].id' models.json > models.txt
 ```
 
 - [models.json](./models.json)
