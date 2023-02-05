@@ -46,6 +46,12 @@ export OPENAI_API_KEY=TODO-YOUR-API-KEY-HERE
 
 # Fetch all the engine data
 curl https://api.openai.com/v1/engines -H "Authorization: Bearer $OPENAI_API_KEY" > engines.json
+
+# Extract just the engine IDs from the engine data
+jq -r '.data[].id' engines.json > engines.txt
+
+# Or you could just run this helper script:
+# npm run-script update-engines
 ```
 
 - [models.json](./engines.json)
