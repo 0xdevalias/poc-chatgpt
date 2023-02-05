@@ -54,7 +54,8 @@ jq -r '.data[].id' engines.json > engines.txt
 # npm run-script update-engines
 ```
 
-- [models.json](./engines.json)
+- [`engines.json`](./engines.json)
+- [`engines.txt`](./engines.txt)
 
 Get details for a single engine (deprecated) ([Ref](https://platform.openai.com/docs/api-reference/engines/retrieve)):
 
