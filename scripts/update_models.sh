@@ -13,6 +13,6 @@ echo "Updating ${models_json} / ${models_txt}"
 
 curl --silent https://api.openai.com/v1/models -H "Authorization: Bearer ${OPENAI_API_KEY}" > "${models_json}"
 
-jq -r '.data[].id' "${models_json}" > "${models_txt}"
+jq -r '.data | sort_by(-.created) | .[] | ("\(.created | todate) \(.id)")' "${models_json}" > "${models_txt}"
 
 echo 'Done!'
