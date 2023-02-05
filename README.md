@@ -35,6 +35,18 @@ export OPENAI_API_KEY=TODO-YOUR-API-KEY-HERE
 curl https://api.openai.com/v1/models/TODO-MODEL-ID-HERE -H "Authorization: Bearer $OPENAI_API_KEY" > models.json
 ```
 
+List available engines (deprecated) ([Ref](https://platform.openai.com/docs/api-reference/engines/list)):
+
+```bash
+# https://platform.openai.com/account/api-keys
+export OPENAI_API_KEY=TODO-YOUR-API-KEY-HERE
+
+# Fetch all the engine data
+curl https://api.openai.com/v1/engines -H "Authorization: Bearer $OPENAI_API_KEY" > engines.json
+```
+
+- [models.json](./engines.json)
+
 ## Leaked Model Controversy
 
 You can read more about my running notes/research around the leaked model, how it was taken down, and the supposed existence of a new model (though that situation seems super scammy) here:
