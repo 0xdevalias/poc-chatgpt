@@ -1,0 +1,340 @@
+{
+  "openai": [
+    {
+      "id": "if-curie-v2",
+      "owned_by": "openai",
+      "created": 1610745968
+    },
+    {
+      "id": "if-davinci-v2",
+      "owned_by": "openai",
+      "created": 1610745990
+    },
+    {
+      "id": "if-davinci:3.0.0",
+      "owned_by": "openai",
+      "created": 1629420755
+    },
+    {
+      "id": "davinci-if:3.0.0",
+      "owned_by": "openai",
+      "created": 1629498070
+    },
+    {
+      "id": "davinci-instruct-beta:2.0.0",
+      "owned_by": "openai",
+      "created": 1629501914
+    },
+    {
+      "id": "text-babbage:001",
+      "owned_by": "openai",
+      "created": 1642018370
+    },
+    {
+      "id": "ada",
+      "owned_by": "openai",
+      "created": 1649357491
+    },
+    {
+      "id": "babbage",
+      "owned_by": "openai",
+      "created": 1649358449
+    },
+    {
+      "id": "davinci",
+      "owned_by": "openai",
+      "created": 1649359874
+    },
+    {
+      "id": "curie",
+      "owned_by": "openai",
+      "created": 1649359874
+    },
+    {
+      "id": "text-davinci-001",
+      "owned_by": "openai",
+      "created": 1649364042
+    },
+    {
+      "id": "curie-instruct-beta",
+      "owned_by": "openai",
+      "created": 1649364042
+    },
+    {
+      "id": "text-ada-001",
+      "owned_by": "openai",
+      "created": 1649364042
+    },
+    {
+      "id": "davinci-instruct-beta",
+      "owned_by": "openai",
+      "created": 1649364042
+    },
+    {
+      "id": "text-curie-001",
+      "owned_by": "openai",
+      "created": 1649364043
+    },
+    {
+      "id": "text-babbage-001",
+      "owned_by": "openai",
+      "created": 1649364043
+    },
+    {
+      "id": "text-davinci-edit-001",
+      "owned_by": "openai",
+      "created": 1649809179
+    },
+    {
+      "id": "text-davinci-insert-002",
+      "owned_by": "openai",
+      "created": 1649880484
+    },
+    {
+      "id": "text-davinci-002",
+      "owned_by": "openai",
+      "created": 1649880484
+    },
+    {
+      "id": "code-davinci-edit-001",
+      "owned_by": "openai",
+      "created": 1649880484
+    },
+    {
+      "id": "text-davinci-insert-001",
+      "owned_by": "openai",
+      "created": 1649880484
+    },
+    {
+      "id": "code-davinci-002",
+      "owned_by": "openai",
+      "created": 1649880485
+    },
+    {
+      "id": "code-cushman-001",
+      "owned_by": "openai",
+      "created": 1656081837
+    }
+  ],
+  "openai-dev": [
+    {
+      "id": "text-similarity-babbage-001",
+      "owned_by": "openai-dev",
+      "created": 1651172505
+    },
+    {
+      "id": "babbage-similarity",
+      "owned_by": "openai-dev",
+      "created": 1651172505
+    },
+    {
+      "id": "text-similarity-ada-001",
+      "owned_by": "openai-dev",
+      "created": 1651172505
+    },
+    {
+      "id": "ada-code-search-code",
+      "owned_by": "openai-dev",
+      "created": 1651172505
+    },
+    {
+      "id": "text-search-ada-query-001",
+      "owned_by": "openai-dev",
+      "created": 1651172505
+    },
+    {
+      "id": "ada-search-query",
+      "owned_by": "openai-dev",
+      "created": 1651172505
+    },
+    {
+      "id": "text-search-davinci-query-001",
+      "owned_by": "openai-dev",
+      "created": 1651172505
+    },
+    {
+      "id": "davinci-search-query",
+      "owned_by": "openai-dev",
+      "created": 1651172505
+    },
+    {
+      "id": "text-search-davinci-doc-001",
+      "owned_by": "openai-dev",
+      "created": 1651172505
+    },
+    {
+      "id": "text-similarity-davinci-001",
+      "owned_by": "openai-dev",
+      "created": 1651172505
+    },
+    {
+      "id": "code-search-babbage-text-001",
+      "owned_by": "openai-dev",
+      "created": 1651172507
+    },
+    {
+      "id": "code-search-babbage-code-001",
+      "owned_by": "openai-dev",
+      "created": 1651172507
+    },
+    {
+      "id": "ada-similarity",
+      "owned_by": "openai-dev",
+      "created": 1651172507
+    },
+    {
+      "id": "code-search-ada-text-001",
+      "owned_by": "openai-dev",
+      "created": 1651172507
+    },
+    {
+      "id": "text-search-ada-doc-001",
+      "owned_by": "openai-dev",
+      "created": 1651172507
+    },
+    {
+      "id": "text-similarity-curie-001",
+      "owned_by": "openai-dev",
+      "created": 1651172507
+    },
+    {
+      "id": "code-search-ada-code-001",
+      "owned_by": "openai-dev",
+      "created": 1651172507
+    },
+    {
+      "id": "ada-search-document",
+      "owned_by": "openai-dev",
+      "created": 1651172507
+    },
+    {
+      "id": "curie-search-document",
+      "owned_by": "openai-dev",
+      "created": 1651172508
+    },
+    {
+      "id": "babbage-code-search-code",
+      "owned_by": "openai-dev",
+      "created": 1651172509
+    },
+    {
+      "id": "babbage-code-search-text",
+      "owned_by": "openai-dev",
+      "created": 1651172509
+    },
+    {
+      "id": "curie-search-query",
+      "owned_by": "openai-dev",
+      "created": 1651172509
+    },
+    {
+      "id": "davinci-search-document",
+      "owned_by": "openai-dev",
+      "created": 1651172509
+    },
+    {
+      "id": "text-search-babbage-doc-001",
+      "owned_by": "openai-dev",
+      "created": 1651172509
+    },
+    {
+      "id": "text-search-curie-doc-001",
+      "owned_by": "openai-dev",
+      "created": 1651172509
+    },
+    {
+      "id": "text-search-curie-query-001",
+      "owned_by": "openai-dev",
+      "created": 1651172509
+    },
+    {
+      "id": "babbage-search-query",
+      "owned_by": "openai-dev",
+      "created": 1651172509
+    },
+    {
+      "id": "text-search-babbage-query-001",
+      "owned_by": "openai-dev",
+      "created": 1651172509
+    },
+    {
+      "id": "davinci-similarity",
+      "owned_by": "openai-dev",
+      "created": 1651172509
+    },
+    {
+      "id": "ada-code-search-text",
+      "owned_by": "openai-dev",
+      "created": 1651172510
+    },
+    {
+      "id": "babbage-search-document",
+      "owned_by": "openai-dev",
+      "created": 1651172510
+    },
+    {
+      "id": "curie-similarity",
+      "owned_by": "openai-dev",
+      "created": 1651172510
+    }
+  ],
+  "openai-internal": [
+    {
+      "id": "text-davinci-003",
+      "owned_by": "openai-internal",
+      "created": 1669599635
+    },
+    {
+      "id": "text-embedding-ada-002",
+      "owned_by": "openai-internal",
+      "created": 1671217299
+    },
+    {
+      "id": "audio-transcribe-deprecated",
+      "owned_by": "openai-internal",
+      "created": 1674776185
+    }
+  ],
+  "system": [
+    {
+      "id": "cushman:2020-05-03",
+      "owned_by": "system",
+      "created": 1590625110
+    },
+    {
+      "id": "ada:2020-05-03",
+      "owned_by": "system",
+      "created": 1607631625
+    },
+    {
+      "id": "babbage:2020-05-03",
+      "owned_by": "system",
+      "created": 1607632611
+    },
+    {
+      "id": "curie:2020-05-03",
+      "owned_by": "system",
+      "created": 1607632725
+    },
+    {
+      "id": "davinci:2020-05-03",
+      "owned_by": "system",
+      "created": 1607640163
+    },
+    {
+      "id": "text-davinci:001",
+      "owned_by": "system",
+      "created": 1641943966
+    },
+    {
+      "id": "text-ada:001",
+      "owned_by": "system",
+      "created": 1641949608
+    },
+    {
+      "id": "text-curie:001",
+      "owned_by": "system",
+      "created": 1641955047
+    }
+  ]
+}

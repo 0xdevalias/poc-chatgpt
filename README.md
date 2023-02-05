@@ -23,10 +23,14 @@ jq -r '.data[].id' models.json > models.txt
 
 # Or you could just run this helper script:
 # npm run-script update-models
+
+# You may also like to the run:
+# npm run-script extract-models-by-owned-by
 ```
 
 - [`models.json`](./models.json)
 - [`models.txt`](./models.txt)
+- [`models_by_owned_by.json`](./models_by_owned_by.json)
 
 Get details for a single model ([Ref](https://platform.openai.com/docs/api-reference/models/retrieve)):
 
