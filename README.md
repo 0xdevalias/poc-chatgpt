@@ -25,8 +25,8 @@ jq -r '.data[].id' models.json > models.txt
 # npm run-script update-models
 ```
 
-- [models.json](./models.json)
-- [models.txt](./models.txt)
+- [`models.json`](./models.json)
+- [`models.txt`](./models.txt)
 
 Get details for a single model ([Ref](https://platform.openai.com/docs/api-reference/models/retrieve)):
 
