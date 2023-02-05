@@ -24,7 +24,7 @@ jq -r '.data[].id' models.json > models.txt
 # Or you could just run this helper script:
 # npm run-script update-models
 
-# You may also like to the run:
+# You may also like to run:
 # npm run-script extract-models-by-owned-by
 ```
 
