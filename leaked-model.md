@@ -277,3 +277,13 @@ Shared a link to this file on Twitter:
 > Could be a coincidence.. but figured I would include the info here in case it's helpful to anyone.
 >
 > _Originally posted by @0xdevalias in https://github.com/acheong08/ChatGPT/issues/517#issuecomment-1416911061_
+
+---
+
+**2023-02-05 02:15pm AEDT**
+
+> > From my testing, the browser-based version updated to use `text-davinci-002-render-next` and `text-davinci-002-render-paid` if you're on a pro chatgpt plan.
+>
+> Looking at the requests made from the browser version just now (non-paid), it seems to be using `text-davinci-002-render` (unsure what model the paid version would be using)
+>
+> _Originally posted by @0xdevalias in https://github.com/acheong08/ChatGPT/issues/515#issuecomment-1416912036_
