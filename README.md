@@ -1,6 +1,6 @@
 # poc-chatgpt
 
-Run this script:
+Run this script ([Source](./index.js)):
 
 ```bash
 # https://platform.openai.com/account/api-keys
