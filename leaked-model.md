@@ -179,6 +179,48 @@ Shared a link to this file on Twitter:
 
 ---
 
+**2023-02-03 03:50pm AEDT**
+
+> > then can you tell me why they removed the old model name while they created the same model with a new name?
+>
+> How do you know it's not a newer model? That's not something you can really prove without us knowing the model name and testing it ourselves.
+>
+> _Originally posted by @waylaidwanderer in https://github.com/acheong08/ChatGPT/issues/517#issuecomment-1414945826_
+
+> > > then can you tell me why they removed the old model name while they created the same model with a new name?
+> >
+> > How do you know it's not a newer model? That's not something you can really prove without us knowing the model name and testing it ourselves.
+>
+> Newer model must have a newer date not still same date
+>
+> It's definitely to prevent us from using it
+>
+> _Originally posted by @PawanOsman in https://github.com/acheong08/ChatGPT/issues/517#issuecomment-1415040829_
+
+> > Newer model must have a newer date not still same date
+> It's definitely to prevent us from using it
+>
+> Are you saying it still has the same date and just different name?
+>
+> (Of course you wouldn't answer)
+>
+> _Originally posted by @acheong08 in https://github.com/acheong08/ChatGPT/issues/517#issuecomment-1415103444_
+
+> > > Newer model must have a newer date not still same date
+> > It's definitely to prevent us from using it
+> >
+> > Are you saying it still has the same date and just different name?
+> >
+> > (Of course you wouldn't answer)
+>
+> I already said that in discord
+> Yeah the new model has the same date with a new name,
+> its looks like just renamed not removed
+>
+> _Originally posted by @PawanOsman in https://github.com/acheong08/ChatGPT/issues/517#issuecomment-1415106987_
+
+---
+
 **2023-02-03 11:02pm AEDT**
 
 > Confirmed it works and doesn't use credit on an account with `$`0. It still charges the same amount as davinci on account with `$`
