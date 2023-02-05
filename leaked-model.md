@@ -287,3 +287,7 @@ Shared a link to this file on Twitter:
 > Looking at the requests made from the browser version just now (non-paid), it seems to be using `text-davinci-002-render` (unsure what model the paid version would be using)
 >
 > _Originally posted by @0xdevalias in https://github.com/acheong08/ChatGPT/issues/515#issuecomment-1416912036_
+
+> The error implies that the input data is not supposed to be text but audio. I would say it's a coincidence. The `text-chat-davinci-002-xxxxxxx` models never shows up on the models API endpoint anyways
+>
+> _Originally posted by @acheong08 in https://github.com/acheong08/ChatGPT/issues/517#issuecomment-1416911673_
