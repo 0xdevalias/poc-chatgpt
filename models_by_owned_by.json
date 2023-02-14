@@ -13,13 +13,13 @@
       "created_iso8601": "2022-04-13T20:08:05Z"
     },
     {
-      "id": "text-davinci-insert-002",
+      "id": "text-davinci-002",
       "owned_by": "openai",
       "created": 1649880484,
       "created_iso8601": "2022-04-13T20:08:04Z"
     },
     {
-      "id": "text-davinci-002",
+      "id": "text-davinci-insert-002",
       "owned_by": "openai",
       "created": 1649880484,
       "created_iso8601": "2022-04-13T20:08:04Z"
