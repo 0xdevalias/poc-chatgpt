@@ -15,4 +15,4 @@ for group in $(jq -r 'keys[]' "${grouped_json}"); do
 done
 
 echo "Extracted models saved to ${grouped_json} / ${grouped_txt_prefix}*${grouped_txt_suffix}"
-echo "Extracted models saved to ${grouped_json}
+echo "Extracted models saved to ${grouped_json}"
