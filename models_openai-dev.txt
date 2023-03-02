@@ -3,11 +3,11 @@
 2022-04-28T19:01:50Z curie-similarity
 2022-04-28T19:01:49Z babbage-code-search-code
 2022-04-28T19:01:49Z babbage-code-search-text
-2022-04-28T19:01:49Z curie-search-query
 2022-04-28T19:01:49Z davinci-search-document
+2022-04-28T19:01:49Z curie-search-query
+2022-04-28T19:01:49Z text-search-curie-query-001
 2022-04-28T19:01:49Z text-search-babbage-doc-001
 2022-04-28T19:01:49Z text-search-curie-doc-001
-2022-04-28T19:01:49Z text-search-curie-query-001
 2022-04-28T19:01:49Z babbage-search-query
 2022-04-28T19:01:49Z text-search-babbage-query-001
 2022-04-28T19:01:49Z davinci-similarity

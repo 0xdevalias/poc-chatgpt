@@ -1,3 +1,4 @@
+2023-02-27T21:13:04Z whisper-1
 2023-01-26T23:36:25Z audio-transcribe-deprecated
 2022-12-16T19:01:39Z text-embedding-ada-002
 2022-11-28T01:40:35Z text-davinci-003

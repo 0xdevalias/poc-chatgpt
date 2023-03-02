@@ -1,6 +1,18 @@
 {
   "openai": [
     {
+      "id": "gpt-3.5-turbo-0301",
+      "owned_by": "openai",
+      "created": 1677649963,
+      "created_iso8601": "2023-03-01T05:52:43Z"
+    },
+    {
+      "id": "gpt-3.5-turbo",
+      "owned_by": "openai",
+      "created": 1677610602,
+      "created_iso8601": "2023-02-28T18:56:42Z"
+    },
+    {
       "id": "code-cushman-001",
       "owned_by": "openai",
       "created": 1656081837,
@@ -11,12 +23,6 @@
       "owned_by": "openai",
       "created": 1649880485,
       "created_iso8601": "2022-04-13T20:08:05Z"
-    },
-    {
-      "id": "text-davinci-002",
-      "owned_by": "openai",
-      "created": 1649880484,
-      "created_iso8601": "2022-04-13T20:08:04Z"
     },
     {
       "id": "text-davinci-insert-002",
@@ -32,6 +38,12 @@
     },
     {
       "id": "text-davinci-insert-001",
+      "owned_by": "openai",
+      "created": 1649880484,
+      "created_iso8601": "2022-04-13T20:08:04Z"
+    },
+    {
+      "id": "text-davinci-002",
       "owned_by": "openai",
       "created": 1649880484,
       "created_iso8601": "2022-04-13T20:08:04Z"
@@ -171,13 +183,19 @@
       "created_iso8601": "2022-04-28T19:01:49Z"
     },
     {
+      "id": "davinci-search-document",
+      "owned_by": "openai-dev",
+      "created": 1651172509,
+      "created_iso8601": "2022-04-28T19:01:49Z"
+    },
+    {
       "id": "curie-search-query",
       "owned_by": "openai-dev",
       "created": 1651172509,
       "created_iso8601": "2022-04-28T19:01:49Z"
     },
     {
-      "id": "davinci-search-document",
+      "id": "text-search-curie-query-001",
       "owned_by": "openai-dev",
       "created": 1651172509,
       "created_iso8601": "2022-04-28T19:01:49Z"
@@ -190,12 +208,6 @@
     },
     {
       "id": "text-search-curie-doc-001",
-      "owned_by": "openai-dev",
-      "created": 1651172509,
-      "created_iso8601": "2022-04-28T19:01:49Z"
-    },
-    {
-      "id": "text-search-curie-query-001",
       "owned_by": "openai-dev",
       "created": 1651172509,
       "created_iso8601": "2022-04-28T19:01:49Z"
@@ -334,6 +346,12 @@
     }
   ],
   "openai-internal": [
+    {
+      "id": "whisper-1",
+      "owned_by": "openai-internal",
+      "created": 1677532384,
+      "created_iso8601": "2023-02-27T21:13:04Z"
+    },
     {
       "id": "audio-transcribe-deprecated",
       "owned_by": "openai-internal",

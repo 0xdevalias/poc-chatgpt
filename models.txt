@@ -1,3 +1,6 @@
+2023-03-01T05:52:43Z gpt-3.5-turbo-0301
+2023-02-28T18:56:42Z gpt-3.5-turbo
+2023-02-27T21:13:04Z whisper-1
 2023-01-26T23:36:25Z audio-transcribe-deprecated
 2022-12-16T19:01:39Z text-embedding-ada-002
 2022-11-28T01:40:35Z text-davinci-003
@@ -7,11 +10,11 @@
 2022-04-28T19:01:50Z curie-similarity
 2022-04-28T19:01:49Z babbage-code-search-code
 2022-04-28T19:01:49Z babbage-code-search-text
-2022-04-28T19:01:49Z curie-search-query
 2022-04-28T19:01:49Z davinci-search-document
+2022-04-28T19:01:49Z curie-search-query
+2022-04-28T19:01:49Z text-search-curie-query-001
 2022-04-28T19:01:49Z text-search-babbage-doc-001
 2022-04-28T19:01:49Z text-search-curie-doc-001
-2022-04-28T19:01:49Z text-search-curie-query-001
 2022-04-28T19:01:49Z babbage-search-query
 2022-04-28T19:01:49Z text-search-babbage-query-001
 2022-04-28T19:01:49Z davinci-similarity
@@ -35,10 +38,10 @@
 2022-04-28T19:01:45Z text-search-davinci-doc-001
 2022-04-28T19:01:45Z text-similarity-davinci-001
 2022-04-13T20:08:05Z code-davinci-002
-2022-04-13T20:08:04Z text-davinci-002
 2022-04-13T20:08:04Z text-davinci-insert-002
 2022-04-13T20:08:04Z code-davinci-edit-001
 2022-04-13T20:08:04Z text-davinci-insert-001
+2022-04-13T20:08:04Z text-davinci-002
 2022-04-13T00:19:39Z text-davinci-edit-001
 2022-04-07T20:40:43Z text-curie-001
 2022-04-07T20:40:43Z text-babbage-001
