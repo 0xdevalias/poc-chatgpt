@@ -353,12 +353,6 @@
       "created_iso8601": "2023-02-27T21:13:04Z"
     },
     {
-      "id": "audio-transcribe-deprecated",
-      "owned_by": "openai-internal",
-      "created": 1674776185,
-      "created_iso8601": "2023-01-26T23:36:25Z"
-    },
-    {
       "id": "text-embedding-ada-002",
       "owned_by": "openai-internal",
       "created": 1671217299,

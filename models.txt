@@ -1,7 +1,6 @@
 2023-03-01T05:52:43Z gpt-3.5-turbo-0301
 2023-02-28T18:56:42Z gpt-3.5-turbo
 2023-02-27T21:13:04Z whisper-1
-2023-01-26T23:36:25Z audio-transcribe-deprecated
 2022-12-16T19:01:39Z text-embedding-ada-002
 2022-11-28T01:40:35Z text-davinci-003
 2022-06-24T14:43:57Z code-cushman-001
