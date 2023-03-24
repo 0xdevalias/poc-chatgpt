@@ -1,6 +1,18 @@
 {
   "openai": [
     {
+      "id": "gpt-4",
+      "owned_by": "openai",
+      "created": 1678604602,
+      "created_iso8601": "2023-03-12T07:03:22Z"
+    },
+    {
+      "id": "gpt-4-0314",
+      "owned_by": "openai",
+      "created": 1678604601,
+      "created_iso8601": "2023-03-12T07:03:21Z"
+    },
+    {
       "id": "gpt-3.5-turbo-0301",
       "owned_by": "openai",
       "created": 1677649963,
@@ -13,46 +25,10 @@
       "created_iso8601": "2023-02-28T18:56:42Z"
     },
     {
-      "id": "code-cushman-001",
-      "owned_by": "openai",
-      "created": 1656081837,
-      "created_iso8601": "2022-06-24T14:43:57Z"
-    },
-    {
-      "id": "code-davinci-002",
-      "owned_by": "openai",
-      "created": 1649880485,
-      "created_iso8601": "2022-04-13T20:08:05Z"
-    },
-    {
-      "id": "text-davinci-insert-002",
-      "owned_by": "openai",
-      "created": 1649880484,
-      "created_iso8601": "2022-04-13T20:08:04Z"
-    },
-    {
-      "id": "code-davinci-edit-001",
-      "owned_by": "openai",
-      "created": 1649880484,
-      "created_iso8601": "2022-04-13T20:08:04Z"
-    },
-    {
-      "id": "text-davinci-insert-001",
-      "owned_by": "openai",
-      "created": 1649880484,
-      "created_iso8601": "2022-04-13T20:08:04Z"
-    },
-    {
       "id": "text-davinci-002",
       "owned_by": "openai",
       "created": 1649880484,
       "created_iso8601": "2022-04-13T20:08:04Z"
-    },
-    {
-      "id": "text-davinci-edit-001",
-      "owned_by": "openai",
-      "created": 1649809179,
-      "created_iso8601": "2022-04-13T00:19:39Z"
     },
     {
       "id": "text-curie-001",
