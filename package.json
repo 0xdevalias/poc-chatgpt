@@ -21,6 +21,6 @@
     "update-engines": "./scripts/update_engines.sh"
   },
   "dependencies": {
-    "openai": "^3.1.0"
+    "openai": "^4.7.1"
   }
 }

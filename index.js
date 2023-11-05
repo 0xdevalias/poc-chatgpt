@@ -1,12 +1,12 @@
-const { Configuration, OpenAIApi } = require("openai");
+const OpenAI = require("openai");
 
 async function main() {
-    const configuration = new Configuration({
+    
+    const openai = new OpenAI({
       apiKey: process.env.OPENAI_API_KEY,
     });
-    const openai = new OpenAIApi(configuration);
 
-    const completion = await openai.createCompletion({
+    const completion = await openai.completions.create({
       // TODO: Seems this leaked ChatGPT API model got taken down already..
       //   https://github.com/acheong08/ChatGPT/issues/523
       //     https://github.com/acheong08/ChatGPT/issues/523#issuecomment-1414524642
@@ -18,7 +18,7 @@ async function main() {
       // model: "text-davinci-003",
       prompt: "Are you ChatGPT?",
     });
-    console.log(completion.data.choices[0].text);
+    console.log(completion.choices[0].text);
 }
 
 main()
