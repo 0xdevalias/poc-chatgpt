@@ -3,14 +3,32 @@
     {
       "id": "gpt-4",
       "owned_by": "openai",
-      "created": 1678604602,
-      "created_iso8601": "2023-03-12T07:03:22Z"
+      "created": 1687882411,
+      "created_iso8601": "2023-06-27T16:13:31Z"
     },
     {
       "id": "gpt-4-0314",
       "owned_by": "openai",
-      "created": 1678604601,
-      "created_iso8601": "2023-03-12T07:03:21Z"
+      "created": 1687882410,
+      "created_iso8601": "2023-06-27T16:13:30Z"
+    },
+    {
+      "id": "gpt-4-0613",
+      "owned_by": "openai",
+      "created": 1686588896,
+      "created_iso8601": "2023-06-12T16:54:56Z"
+    },
+    {
+      "id": "gpt-3.5-turbo-0613",
+      "owned_by": "openai",
+      "created": 1686587434,
+      "created_iso8601": "2023-06-12T16:30:34Z"
+    },
+    {
+      "id": "gpt-3.5-turbo-16k-0613",
+      "owned_by": "openai",
+      "created": 1685474247,
+      "created_iso8601": "2023-05-30T19:17:27Z"
     },
     {
       "id": "gpt-3.5-turbo-0301",
@@ -25,16 +43,22 @@
       "created_iso8601": "2023-02-28T18:56:42Z"
     },
     {
+      "id": "code-davinci-edit-001",
+      "owned_by": "openai",
+      "created": 1649880484,
+      "created_iso8601": "2022-04-13T20:08:04Z"
+    },
+    {
       "id": "text-davinci-002",
       "owned_by": "openai",
       "created": 1649880484,
       "created_iso8601": "2022-04-13T20:08:04Z"
     },
     {
-      "id": "text-curie-001",
+      "id": "text-davinci-edit-001",
       "owned_by": "openai",
-      "created": 1649364043,
-      "created_iso8601": "2022-04-07T20:40:43Z"
+      "created": 1649809179,
+      "created_iso8601": "2022-04-13T00:19:39Z"
     },
     {
       "id": "text-babbage-001",
@@ -43,19 +67,13 @@
       "created_iso8601": "2022-04-07T20:40:43Z"
     },
     {
-      "id": "text-davinci-001",
+      "id": "text-curie-001",
       "owned_by": "openai",
-      "created": 1649364042,
-      "created_iso8601": "2022-04-07T20:40:42Z"
+      "created": 1649364043,
+      "created_iso8601": "2022-04-07T20:40:43Z"
     },
     {
       "id": "curie-instruct-beta",
-      "owned_by": "openai",
-      "created": 1649364042,
-      "created_iso8601": "2022-04-07T20:40:42Z"
-    },
-    {
-      "id": "text-ada-001",
       "owned_by": "openai",
       "created": 1649364042,
       "created_iso8601": "2022-04-07T20:40:42Z"
@@ -67,13 +85,25 @@
       "created_iso8601": "2022-04-07T20:40:42Z"
     },
     {
-      "id": "davinci",
+      "id": "text-davinci-001",
+      "owned_by": "openai",
+      "created": 1649364042,
+      "created_iso8601": "2022-04-07T20:40:42Z"
+    },
+    {
+      "id": "text-ada-001",
+      "owned_by": "openai",
+      "created": 1649364042,
+      "created_iso8601": "2022-04-07T20:40:42Z"
+    },
+    {
+      "id": "curie",
       "owned_by": "openai",
       "created": 1649359874,
       "created_iso8601": "2022-04-07T19:31:14Z"
     },
     {
-      "id": "curie",
+      "id": "davinci",
       "owned_by": "openai",
       "created": 1649359874,
       "created_iso8601": "2022-04-07T19:31:14Z"
@@ -89,47 +119,11 @@
       "owned_by": "openai",
       "created": 1649357491,
       "created_iso8601": "2022-04-07T18:51:31Z"
-    },
-    {
-      "id": "text-babbage:001",
-      "owned_by": "openai",
-      "created": 1642018370,
-      "created_iso8601": "2022-01-12T20:12:50Z"
-    },
-    {
-      "id": "davinci-instruct-beta:2.0.0",
-      "owned_by": "openai",
-      "created": 1629501914,
-      "created_iso8601": "2021-08-20T23:25:14Z"
-    },
-    {
-      "id": "davinci-if:3.0.0",
-      "owned_by": "openai",
-      "created": 1629498070,
-      "created_iso8601": "2021-08-20T22:21:10Z"
-    },
-    {
-      "id": "if-davinci:3.0.0",
-      "owned_by": "openai",
-      "created": 1629420755,
-      "created_iso8601": "2021-08-20T00:52:35Z"
-    },
-    {
-      "id": "if-davinci-v2",
-      "owned_by": "openai",
-      "created": 1610745990,
-      "created_iso8601": "2021-01-15T21:26:30Z"
-    },
-    {
-      "id": "if-curie-v2",
-      "owned_by": "openai",
-      "created": 1610745968,
-      "created_iso8601": "2021-01-15T21:26:08Z"
     }
   ],
   "openai-dev": [
     {
-      "id": "ada-code-search-text",
+      "id": "curie-similarity",
       "owned_by": "openai-dev",
       "created": 1651172510,
       "created_iso8601": "2022-04-28T19:01:50Z"
@@ -141,10 +135,46 @@
       "created_iso8601": "2022-04-28T19:01:50Z"
     },
     {
-      "id": "curie-similarity",
+      "id": "ada-code-search-text",
       "owned_by": "openai-dev",
       "created": 1651172510,
       "created_iso8601": "2022-04-28T19:01:50Z"
+    },
+    {
+      "id": "text-search-babbage-doc-001",
+      "owned_by": "openai-dev",
+      "created": 1651172509,
+      "created_iso8601": "2022-04-28T19:01:49Z"
+    },
+    {
+      "id": "curie-search-query",
+      "owned_by": "openai-dev",
+      "created": 1651172509,
+      "created_iso8601": "2022-04-28T19:01:49Z"
+    },
+    {
+      "id": "text-search-babbage-query-001",
+      "owned_by": "openai-dev",
+      "created": 1651172509,
+      "created_iso8601": "2022-04-28T19:01:49Z"
+    },
+    {
+      "id": "babbage-search-query",
+      "owned_by": "openai-dev",
+      "created": 1651172509,
+      "created_iso8601": "2022-04-28T19:01:49Z"
+    },
+    {
+      "id": "davinci-similarity",
+      "owned_by": "openai-dev",
+      "created": 1651172509,
+      "created_iso8601": "2022-04-28T19:01:49Z"
+    },
+    {
+      "id": "davinci-search-document",
+      "owned_by": "openai-dev",
+      "created": 1651172509,
+      "created_iso8601": "2022-04-28T19:01:49Z"
     },
     {
       "id": "babbage-code-search-code",
@@ -159,25 +189,7 @@
       "created_iso8601": "2022-04-28T19:01:49Z"
     },
     {
-      "id": "davinci-search-document",
-      "owned_by": "openai-dev",
-      "created": 1651172509,
-      "created_iso8601": "2022-04-28T19:01:49Z"
-    },
-    {
-      "id": "curie-search-query",
-      "owned_by": "openai-dev",
-      "created": 1651172509,
-      "created_iso8601": "2022-04-28T19:01:49Z"
-    },
-    {
       "id": "text-search-curie-query-001",
-      "owned_by": "openai-dev",
-      "created": 1651172509,
-      "created_iso8601": "2022-04-28T19:01:49Z"
-    },
-    {
-      "id": "text-search-babbage-doc-001",
       "owned_by": "openai-dev",
       "created": 1651172509,
       "created_iso8601": "2022-04-28T19:01:49Z"
@@ -189,52 +201,10 @@
       "created_iso8601": "2022-04-28T19:01:49Z"
     },
     {
-      "id": "babbage-search-query",
-      "owned_by": "openai-dev",
-      "created": 1651172509,
-      "created_iso8601": "2022-04-28T19:01:49Z"
-    },
-    {
-      "id": "text-search-babbage-query-001",
-      "owned_by": "openai-dev",
-      "created": 1651172509,
-      "created_iso8601": "2022-04-28T19:01:49Z"
-    },
-    {
-      "id": "davinci-similarity",
-      "owned_by": "openai-dev",
-      "created": 1651172509,
-      "created_iso8601": "2022-04-28T19:01:49Z"
-    },
-    {
       "id": "curie-search-document",
       "owned_by": "openai-dev",
       "created": 1651172508,
       "created_iso8601": "2022-04-28T19:01:48Z"
-    },
-    {
-      "id": "code-search-babbage-text-001",
-      "owned_by": "openai-dev",
-      "created": 1651172507,
-      "created_iso8601": "2022-04-28T19:01:47Z"
-    },
-    {
-      "id": "code-search-babbage-code-001",
-      "owned_by": "openai-dev",
-      "created": 1651172507,
-      "created_iso8601": "2022-04-28T19:01:47Z"
-    },
-    {
-      "id": "ada-similarity",
-      "owned_by": "openai-dev",
-      "created": 1651172507,
-      "created_iso8601": "2022-04-28T19:01:47Z"
-    },
-    {
-      "id": "code-search-ada-text-001",
-      "owned_by": "openai-dev",
-      "created": 1651172507,
-      "created_iso8601": "2022-04-28T19:01:47Z"
     },
     {
       "id": "text-search-ada-doc-001",
@@ -249,19 +219,55 @@
       "created_iso8601": "2022-04-28T19:01:47Z"
     },
     {
-      "id": "code-search-ada-code-001",
-      "owned_by": "openai-dev",
-      "created": 1651172507,
-      "created_iso8601": "2022-04-28T19:01:47Z"
-    },
-    {
       "id": "ada-search-document",
       "owned_by": "openai-dev",
       "created": 1651172507,
       "created_iso8601": "2022-04-28T19:01:47Z"
     },
     {
+      "id": "code-search-ada-text-001",
+      "owned_by": "openai-dev",
+      "created": 1651172507,
+      "created_iso8601": "2022-04-28T19:01:47Z"
+    },
+    {
+      "id": "code-search-babbage-code-001",
+      "owned_by": "openai-dev",
+      "created": 1651172507,
+      "created_iso8601": "2022-04-28T19:01:47Z"
+    },
+    {
+      "id": "code-search-babbage-text-001",
+      "owned_by": "openai-dev",
+      "created": 1651172507,
+      "created_iso8601": "2022-04-28T19:01:47Z"
+    },
+    {
+      "id": "ada-similarity",
+      "owned_by": "openai-dev",
+      "created": 1651172507,
+      "created_iso8601": "2022-04-28T19:01:47Z"
+    },
+    {
+      "id": "code-search-ada-code-001",
+      "owned_by": "openai-dev",
+      "created": 1651172507,
+      "created_iso8601": "2022-04-28T19:01:47Z"
+    },
+    {
+      "id": "text-similarity-davinci-001",
+      "owned_by": "openai-dev",
+      "created": 1651172505,
+      "created_iso8601": "2022-04-28T19:01:45Z"
+    },
+    {
       "id": "text-similarity-babbage-001",
+      "owned_by": "openai-dev",
+      "created": 1651172505,
+      "created_iso8601": "2022-04-28T19:01:45Z"
+    },
+    {
+      "id": "text-search-davinci-doc-001",
       "owned_by": "openai-dev",
       "created": 1651172505,
       "created_iso8601": "2022-04-28T19:01:45Z"
@@ -273,7 +279,13 @@
       "created_iso8601": "2022-04-28T19:01:45Z"
     },
     {
-      "id": "text-similarity-ada-001",
+      "id": "davinci-search-query",
+      "owned_by": "openai-dev",
+      "created": 1651172505,
+      "created_iso8601": "2022-04-28T19:01:45Z"
+    },
+    {
+      "id": "text-search-davinci-query-001",
       "owned_by": "openai-dev",
       "created": 1651172505,
       "created_iso8601": "2022-04-28T19:01:45Z"
@@ -297,31 +309,19 @@
       "created_iso8601": "2022-04-28T19:01:45Z"
     },
     {
-      "id": "text-search-davinci-query-001",
-      "owned_by": "openai-dev",
-      "created": 1651172505,
-      "created_iso8601": "2022-04-28T19:01:45Z"
-    },
-    {
-      "id": "davinci-search-query",
-      "owned_by": "openai-dev",
-      "created": 1651172505,
-      "created_iso8601": "2022-04-28T19:01:45Z"
-    },
-    {
-      "id": "text-search-davinci-doc-001",
-      "owned_by": "openai-dev",
-      "created": 1651172505,
-      "created_iso8601": "2022-04-28T19:01:45Z"
-    },
-    {
-      "id": "text-similarity-davinci-001",
+      "id": "text-similarity-ada-001",
       "owned_by": "openai-dev",
       "created": 1651172505,
       "created_iso8601": "2022-04-28T19:01:45Z"
     }
   ],
   "openai-internal": [
+    {
+      "id": "gpt-3.5-turbo-16k",
+      "owned_by": "openai-internal",
+      "created": 1683758102,
+      "created_iso8601": "2023-05-10T22:35:02Z"
+    },
     {
       "id": "whisper-1",
       "owned_by": "openai-internal",
@@ -343,52 +343,34 @@
   ],
   "system": [
     {
-      "id": "text-curie:001",
+      "id": "dall-e-2",
       "owned_by": "system",
-      "created": 1641955047,
-      "created_iso8601": "2022-01-12T02:37:27Z"
+      "created": 1698798177,
+      "created_iso8601": "2023-11-01T00:22:57Z"
     },
     {
-      "id": "text-ada:001",
+      "id": "gpt-3.5-turbo-instruct-0914",
       "owned_by": "system",
-      "created": 1641949608,
-      "created_iso8601": "2022-01-12T01:06:48Z"
+      "created": 1694122472,
+      "created_iso8601": "2023-09-07T21:34:32Z"
     },
     {
-      "id": "text-davinci:001",
+      "id": "gpt-3.5-turbo-instruct",
       "owned_by": "system",
-      "created": 1641943966,
-      "created_iso8601": "2022-01-11T23:32:46Z"
+      "created": 1692901427,
+      "created_iso8601": "2023-08-24T18:23:47Z"
     },
     {
-      "id": "davinci:2020-05-03",
+      "id": "babbage-002",
       "owned_by": "system",
-      "created": 1607640163,
-      "created_iso8601": "2020-12-10T22:42:43Z"
+      "created": 1692634615,
+      "created_iso8601": "2023-08-21T16:16:55Z"
     },
     {
-      "id": "curie:2020-05-03",
+      "id": "davinci-002",
       "owned_by": "system",
-      "created": 1607632725,
-      "created_iso8601": "2020-12-10T20:38:45Z"
-    },
-    {
-      "id": "babbage:2020-05-03",
-      "owned_by": "system",
-      "created": 1607632611,
-      "created_iso8601": "2020-12-10T20:36:51Z"
-    },
-    {
-      "id": "ada:2020-05-03",
-      "owned_by": "system",
-      "created": 1607631625,
-      "created_iso8601": "2020-12-10T20:20:25Z"
-    },
-    {
-      "id": "cushman:2020-05-03",
-      "owned_by": "system",
-      "created": 1590625110,
-      "created_iso8601": "2020-05-28T00:18:30Z"
+      "created": 1692634301,
+      "created_iso8601": "2023-08-21T16:11:41Z"
     }
   ]
 }
