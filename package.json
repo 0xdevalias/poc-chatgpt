@@ -2,15 +2,24 @@
   "name": "poc-chatgpt",
   "version": "0.0.1",
   "description": "",
+  "author": "Glenn 'devalias' Grant (https://www.devalias.net/)",
+  "license": "MIT",
+  "homepage": "https://github.com/0xdevalias/poc-chatgpt#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xdevalias/poc-chatgpt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/0xdevalias/poc-chatgpt/issues"
+  },
   "main": "index.js",
+  "packageManager": "npm@9",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "update-models": "./scripts/update_models.sh && ./scripts/extract_models_by_owned_by.sh",
     "extract-models-by-owned-by": "./scripts/extract_models_by_owned_by.sh",
     "update-engines": "./scripts/update_engines.sh"
   },
-  "author": "",
-  "license": "MIT",
   "dependencies": {
     "openai": "^3.1.0"
   }
