@@ -83,6 +83,14 @@
     },
     {
       "object": "engine",
+      "id": "gpt-4-1106-preview",
+      "ready": true,
+      "owner": "system",
+      "permissions": null,
+      "created": null
+    },
+    {
+      "object": "engine",
       "id": "davinci-similarity",
       "ready": true,
       "owner": "openai-dev",
@@ -139,6 +147,14 @@
     },
     {
       "object": "engine",
+      "id": "gpt-4",
+      "ready": true,
+      "owner": "openai",
+      "permissions": null,
+      "created": null
+    },
+    {
+      "object": "engine",
       "id": "text-similarity-babbage-001",
       "ready": true,
       "owner": "openai-dev",
@@ -174,6 +190,14 @@
       "id": "davinci-search-query",
       "ready": true,
       "owner": "openai-dev",
+      "permissions": null,
+      "created": null
+    },
+    {
+      "object": "engine",
+      "id": "gpt-4-vision-preview",
+      "ready": true,
+      "owner": "system",
       "permissions": null,
       "created": null
     },
@@ -235,6 +259,14 @@
     },
     {
       "object": "engine",
+      "id": "tts-1",
+      "ready": true,
+      "owner": "openai-internal",
+      "permissions": null,
+      "created": null
+    },
+    {
+      "object": "engine",
       "id": "davinci-search-document",
       "ready": true,
       "owner": "openai-dev",
@@ -254,6 +286,14 @@
       "id": "babbage-code-search-code",
       "ready": true,
       "owner": "openai-dev",
+      "permissions": null,
+      "created": null
+    },
+    {
+      "object": "engine",
+      "id": "gpt-3.5-turbo-1106",
+      "ready": true,
+      "owner": "system",
       "permissions": null,
       "created": null
     },
@@ -283,14 +323,6 @@
     },
     {
       "object": "engine",
-      "id": "gpt-4",
-      "ready": true,
-      "owner": "openai",
-      "permissions": null,
-      "created": null
-    },
-    {
-      "object": "engine",
       "id": "code-search-babbage-code-001",
       "ready": true,
       "owner": "openai-dev",
@@ -315,6 +347,14 @@
     },
     {
       "object": "engine",
+      "id": "tts-1-hd",
+      "ready": true,
+      "owner": "system",
+      "permissions": null,
+      "created": null
+    },
+    {
+      "object": "engine",
       "id": "text-search-curie-query-001",
       "ready": true,
       "owner": "openai-dev",
@@ -331,6 +371,14 @@
     },
     {
       "object": "engine",
+      "id": "tts-1-1106",
+      "ready": true,
+      "owner": "system",
+      "permissions": null,
+      "created": null
+    },
+    {
+      "object": "engine",
       "id": "text-davinci-edit-001",
       "ready": true,
       "owner": "openai",
@@ -342,6 +390,14 @@
       "id": "code-search-babbage-text-001",
       "ready": true,
       "owner": "openai-dev",
+      "permissions": null,
+      "created": null
+    },
+    {
+      "object": "engine",
+      "id": "tts-1-hd-1106",
+      "ready": true,
+      "owner": "system",
       "permissions": null,
       "created": null
     },
@@ -395,14 +451,6 @@
     },
     {
       "object": "engine",
-      "id": "gpt-4-0613",
-      "ready": true,
-      "owner": "openai",
-      "permissions": null,
-      "created": null
-    },
-    {
-      "object": "engine",
       "id": "text-similarity-ada-001",
       "ready": true,
       "owner": "openai-dev",
@@ -438,6 +486,14 @@
       "id": "text-davinci-003",
       "ready": true,
       "owner": "openai-internal",
+      "permissions": null,
+      "created": null
+    },
+    {
+      "object": "engine",
+      "id": "gpt-4-0613",
+      "ready": true,
+      "owner": "openai",
       "permissions": null,
       "created": null
     },
@@ -486,6 +542,14 @@
       "id": "gpt-3.5-turbo-0613",
       "ready": true,
       "owner": "openai",
+      "permissions": null,
+      "created": null
+    },
+    {
+      "object": "engine",
+      "id": "dall-e-3",
+      "ready": true,
+      "owner": "system",
       "permissions": null,
       "created": null
     }
