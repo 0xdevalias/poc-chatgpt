@@ -323,6 +323,12 @@
       "created_iso8601": "2023-05-10T22:35:02Z"
     },
     {
+      "id": "tts-1",
+      "owned_by": "openai-internal",
+      "created": 1681940951,
+      "created_iso8601": "2023-04-19T21:49:11Z"
+    },
+    {
       "id": "whisper-1",
       "owned_by": "openai-internal",
       "created": 1677532384,
@@ -343,10 +349,52 @@
   ],
   "system": [
     {
+      "id": "tts-1-hd-1106",
+      "owned_by": "system",
+      "created": 1699053533,
+      "created_iso8601": "2023-11-03T23:18:53Z"
+    },
+    {
+      "id": "tts-1-1106",
+      "owned_by": "system",
+      "created": 1699053241,
+      "created_iso8601": "2023-11-03T23:14:01Z"
+    },
+    {
+      "id": "tts-1-hd",
+      "owned_by": "system",
+      "created": 1699046015,
+      "created_iso8601": "2023-11-03T21:13:35Z"
+    },
+    {
+      "id": "gpt-3.5-turbo-1106",
+      "owned_by": "system",
+      "created": 1698959748,
+      "created_iso8601": "2023-11-02T21:15:48Z"
+    },
+    {
+      "id": "gpt-4-1106-preview",
+      "owned_by": "system",
+      "created": 1698957206,
+      "created_iso8601": "2023-11-02T20:33:26Z"
+    },
+    {
+      "id": "gpt-4-vision-preview",
+      "owned_by": "system",
+      "created": 1698894917,
+      "created_iso8601": "2023-11-02T03:15:17Z"
+    },
+    {
       "id": "dall-e-2",
       "owned_by": "system",
       "created": 1698798177,
       "created_iso8601": "2023-11-01T00:22:57Z"
+    },
+    {
+      "id": "dall-e-3",
+      "owned_by": "system",
+      "created": 1698785189,
+      "created_iso8601": "2023-10-31T20:46:29Z"
     },
     {
       "id": "gpt-3.5-turbo-instruct-0914",
