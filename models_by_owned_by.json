@@ -43,13 +43,13 @@
       "created_iso8601": "2023-02-28T18:56:42Z"
     },
     {
-      "id": "code-davinci-edit-001",
+      "id": "text-davinci-002",
       "owned_by": "openai",
       "created": 1649880484,
       "created_iso8601": "2022-04-13T20:08:04Z"
     },
     {
-      "id": "text-davinci-002",
+      "id": "code-davinci-edit-001",
       "owned_by": "openai",
       "created": 1649880484,
       "created_iso8601": "2022-04-13T20:08:04Z"
@@ -349,18 +349,6 @@
   ],
   "system": [
     {
-      "id": "canary-whisper",
-      "owned_by": "system",
-      "created": 1699656801,
-      "created_iso8601": "2023-11-10T22:53:21Z"
-    },
-    {
-      "id": "canary-tts",
-      "owned_by": "system",
-      "created": 1699492935,
-      "created_iso8601": "2023-11-09T01:22:15Z"
-    },
-    {
       "id": "tts-1-hd-1106",
       "owned_by": "system",
       "created": 1699053533,
@@ -401,6 +389,12 @@
       "owned_by": "system",
       "created": 1698798177,
       "created_iso8601": "2023-11-01T00:22:57Z"
+    },
+    {
+      "id": "dall-e-3",
+      "owned_by": "system",
+      "created": 1698785189,
+      "created_iso8601": "2023-10-31T20:46:29Z"
     },
     {
       "id": "gpt-3.5-turbo-instruct-0914",
