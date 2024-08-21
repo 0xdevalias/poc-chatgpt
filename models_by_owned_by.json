@@ -7,312 +7,16 @@
       "created_iso8601": "2023-06-27T16:13:31Z"
     },
     {
-      "id": "gpt-4-0314",
-      "owned_by": "openai",
-      "created": 1687882410,
-      "created_iso8601": "2023-06-27T16:13:30Z"
-    },
-    {
       "id": "gpt-4-0613",
       "owned_by": "openai",
       "created": 1686588896,
       "created_iso8601": "2023-06-12T16:54:56Z"
     },
     {
-      "id": "gpt-3.5-turbo-0613",
-      "owned_by": "openai",
-      "created": 1686587434,
-      "created_iso8601": "2023-06-12T16:30:34Z"
-    },
-    {
-      "id": "gpt-3.5-turbo-16k-0613",
-      "owned_by": "openai",
-      "created": 1685474247,
-      "created_iso8601": "2023-05-30T19:17:27Z"
-    },
-    {
-      "id": "gpt-3.5-turbo-0301",
-      "owned_by": "openai",
-      "created": 1677649963,
-      "created_iso8601": "2023-03-01T05:52:43Z"
-    },
-    {
       "id": "gpt-3.5-turbo",
       "owned_by": "openai",
       "created": 1677610602,
       "created_iso8601": "2023-02-28T18:56:42Z"
-    },
-    {
-      "id": "text-davinci-002",
-      "owned_by": "openai",
-      "created": 1649880484,
-      "created_iso8601": "2022-04-13T20:08:04Z"
-    },
-    {
-      "id": "code-davinci-edit-001",
-      "owned_by": "openai",
-      "created": 1649880484,
-      "created_iso8601": "2022-04-13T20:08:04Z"
-    },
-    {
-      "id": "text-davinci-edit-001",
-      "owned_by": "openai",
-      "created": 1649809179,
-      "created_iso8601": "2022-04-13T00:19:39Z"
-    },
-    {
-      "id": "text-babbage-001",
-      "owned_by": "openai",
-      "created": 1649364043,
-      "created_iso8601": "2022-04-07T20:40:43Z"
-    },
-    {
-      "id": "text-curie-001",
-      "owned_by": "openai",
-      "created": 1649364043,
-      "created_iso8601": "2022-04-07T20:40:43Z"
-    },
-    {
-      "id": "curie-instruct-beta",
-      "owned_by": "openai",
-      "created": 1649364042,
-      "created_iso8601": "2022-04-07T20:40:42Z"
-    },
-    {
-      "id": "davinci-instruct-beta",
-      "owned_by": "openai",
-      "created": 1649364042,
-      "created_iso8601": "2022-04-07T20:40:42Z"
-    },
-    {
-      "id": "text-davinci-001",
-      "owned_by": "openai",
-      "created": 1649364042,
-      "created_iso8601": "2022-04-07T20:40:42Z"
-    },
-    {
-      "id": "text-ada-001",
-      "owned_by": "openai",
-      "created": 1649364042,
-      "created_iso8601": "2022-04-07T20:40:42Z"
-    },
-    {
-      "id": "curie",
-      "owned_by": "openai",
-      "created": 1649359874,
-      "created_iso8601": "2022-04-07T19:31:14Z"
-    },
-    {
-      "id": "davinci",
-      "owned_by": "openai",
-      "created": 1649359874,
-      "created_iso8601": "2022-04-07T19:31:14Z"
-    },
-    {
-      "id": "babbage",
-      "owned_by": "openai",
-      "created": 1649358449,
-      "created_iso8601": "2022-04-07T19:07:29Z"
-    },
-    {
-      "id": "ada",
-      "owned_by": "openai",
-      "created": 1649357491,
-      "created_iso8601": "2022-04-07T18:51:31Z"
-    }
-  ],
-  "openai-dev": [
-    {
-      "id": "curie-similarity",
-      "owned_by": "openai-dev",
-      "created": 1651172510,
-      "created_iso8601": "2022-04-28T19:01:50Z"
-    },
-    {
-      "id": "babbage-search-document",
-      "owned_by": "openai-dev",
-      "created": 1651172510,
-      "created_iso8601": "2022-04-28T19:01:50Z"
-    },
-    {
-      "id": "ada-code-search-text",
-      "owned_by": "openai-dev",
-      "created": 1651172510,
-      "created_iso8601": "2022-04-28T19:01:50Z"
-    },
-    {
-      "id": "text-search-babbage-doc-001",
-      "owned_by": "openai-dev",
-      "created": 1651172509,
-      "created_iso8601": "2022-04-28T19:01:49Z"
-    },
-    {
-      "id": "curie-search-query",
-      "owned_by": "openai-dev",
-      "created": 1651172509,
-      "created_iso8601": "2022-04-28T19:01:49Z"
-    },
-    {
-      "id": "text-search-babbage-query-001",
-      "owned_by": "openai-dev",
-      "created": 1651172509,
-      "created_iso8601": "2022-04-28T19:01:49Z"
-    },
-    {
-      "id": "babbage-search-query",
-      "owned_by": "openai-dev",
-      "created": 1651172509,
-      "created_iso8601": "2022-04-28T19:01:49Z"
-    },
-    {
-      "id": "davinci-similarity",
-      "owned_by": "openai-dev",
-      "created": 1651172509,
-      "created_iso8601": "2022-04-28T19:01:49Z"
-    },
-    {
-      "id": "davinci-search-document",
-      "owned_by": "openai-dev",
-      "created": 1651172509,
-      "created_iso8601": "2022-04-28T19:01:49Z"
-    },
-    {
-      "id": "babbage-code-search-code",
-      "owned_by": "openai-dev",
-      "created": 1651172509,
-      "created_iso8601": "2022-04-28T19:01:49Z"
-    },
-    {
-      "id": "babbage-code-search-text",
-      "owned_by": "openai-dev",
-      "created": 1651172509,
-      "created_iso8601": "2022-04-28T19:01:49Z"
-    },
-    {
-      "id": "text-search-curie-query-001",
-      "owned_by": "openai-dev",
-      "created": 1651172509,
-      "created_iso8601": "2022-04-28T19:01:49Z"
-    },
-    {
-      "id": "text-search-curie-doc-001",
-      "owned_by": "openai-dev",
-      "created": 1651172509,
-      "created_iso8601": "2022-04-28T19:01:49Z"
-    },
-    {
-      "id": "curie-search-document",
-      "owned_by": "openai-dev",
-      "created": 1651172508,
-      "created_iso8601": "2022-04-28T19:01:48Z"
-    },
-    {
-      "id": "text-search-ada-doc-001",
-      "owned_by": "openai-dev",
-      "created": 1651172507,
-      "created_iso8601": "2022-04-28T19:01:47Z"
-    },
-    {
-      "id": "text-similarity-curie-001",
-      "owned_by": "openai-dev",
-      "created": 1651172507,
-      "created_iso8601": "2022-04-28T19:01:47Z"
-    },
-    {
-      "id": "ada-search-document",
-      "owned_by": "openai-dev",
-      "created": 1651172507,
-      "created_iso8601": "2022-04-28T19:01:47Z"
-    },
-    {
-      "id": "code-search-ada-text-001",
-      "owned_by": "openai-dev",
-      "created": 1651172507,
-      "created_iso8601": "2022-04-28T19:01:47Z"
-    },
-    {
-      "id": "code-search-babbage-code-001",
-      "owned_by": "openai-dev",
-      "created": 1651172507,
-      "created_iso8601": "2022-04-28T19:01:47Z"
-    },
-    {
-      "id": "code-search-babbage-text-001",
-      "owned_by": "openai-dev",
-      "created": 1651172507,
-      "created_iso8601": "2022-04-28T19:01:47Z"
-    },
-    {
-      "id": "ada-similarity",
-      "owned_by": "openai-dev",
-      "created": 1651172507,
-      "created_iso8601": "2022-04-28T19:01:47Z"
-    },
-    {
-      "id": "code-search-ada-code-001",
-      "owned_by": "openai-dev",
-      "created": 1651172507,
-      "created_iso8601": "2022-04-28T19:01:47Z"
-    },
-    {
-      "id": "text-similarity-davinci-001",
-      "owned_by": "openai-dev",
-      "created": 1651172505,
-      "created_iso8601": "2022-04-28T19:01:45Z"
-    },
-    {
-      "id": "text-similarity-babbage-001",
-      "owned_by": "openai-dev",
-      "created": 1651172505,
-      "created_iso8601": "2022-04-28T19:01:45Z"
-    },
-    {
-      "id": "text-search-davinci-doc-001",
-      "owned_by": "openai-dev",
-      "created": 1651172505,
-      "created_iso8601": "2022-04-28T19:01:45Z"
-    },
-    {
-      "id": "babbage-similarity",
-      "owned_by": "openai-dev",
-      "created": 1651172505,
-      "created_iso8601": "2022-04-28T19:01:45Z"
-    },
-    {
-      "id": "davinci-search-query",
-      "owned_by": "openai-dev",
-      "created": 1651172505,
-      "created_iso8601": "2022-04-28T19:01:45Z"
-    },
-    {
-      "id": "text-search-davinci-query-001",
-      "owned_by": "openai-dev",
-      "created": 1651172505,
-      "created_iso8601": "2022-04-28T19:01:45Z"
-    },
-    {
-      "id": "ada-code-search-code",
-      "owned_by": "openai-dev",
-      "created": 1651172505,
-      "created_iso8601": "2022-04-28T19:01:45Z"
-    },
-    {
-      "id": "text-search-ada-query-001",
-      "owned_by": "openai-dev",
-      "created": 1651172505,
-      "created_iso8601": "2022-04-28T19:01:45Z"
-    },
-    {
-      "id": "ada-search-query",
-      "owned_by": "openai-dev",
-      "created": 1651172505,
-      "created_iso8601": "2022-04-28T19:01:45Z"
-    },
-    {
-      "id": "text-similarity-ada-001",
-      "owned_by": "openai-dev",
-      "created": 1651172505,
-      "created_iso8601": "2022-04-28T19:01:45Z"
     }
   ],
   "openai-internal": [
@@ -339,15 +43,87 @@
       "owned_by": "openai-internal",
       "created": 1671217299,
       "created_iso8601": "2022-12-16T19:01:39Z"
-    },
-    {
-      "id": "text-davinci-003",
-      "owned_by": "openai-internal",
-      "created": 1669599635,
-      "created_iso8601": "2022-11-28T01:40:35Z"
     }
   ],
   "system": [
+    {
+      "id": "chatgpt-4o-latest",
+      "owned_by": "system",
+      "created": 1723515131,
+      "created_iso8601": "2024-08-13T02:12:11Z"
+    },
+    {
+      "id": "gpt-4o-2024-08-06",
+      "owned_by": "system",
+      "created": 1722814719,
+      "created_iso8601": "2024-08-04T23:38:39Z"
+    },
+    {
+      "id": "gpt-4o-mini",
+      "owned_by": "system",
+      "created": 1721172741,
+      "created_iso8601": "2024-07-16T23:32:21Z"
+    },
+    {
+      "id": "gpt-4o-mini-2024-07-18",
+      "owned_by": "system",
+      "created": 1721172717,
+      "created_iso8601": "2024-07-16T23:31:57Z"
+    },
+    {
+      "id": "gpt-4o-2024-05-13",
+      "owned_by": "system",
+      "created": 1715368132,
+      "created_iso8601": "2024-05-10T19:08:52Z"
+    },
+    {
+      "id": "gpt-4o",
+      "owned_by": "system",
+      "created": 1715367049,
+      "created_iso8601": "2024-05-10T18:50:49Z"
+    },
+    {
+      "id": "gpt-4-turbo-2024-04-09",
+      "owned_by": "system",
+      "created": 1712601677,
+      "created_iso8601": "2024-04-08T18:41:17Z"
+    },
+    {
+      "id": "gpt-4-turbo",
+      "owned_by": "system",
+      "created": 1712361441,
+      "created_iso8601": "2024-04-05T23:57:21Z"
+    },
+    {
+      "id": "gpt-3.5-turbo-0125",
+      "owned_by": "system",
+      "created": 1706048358,
+      "created_iso8601": "2024-01-23T22:19:18Z"
+    },
+    {
+      "id": "gpt-4-turbo-preview",
+      "owned_by": "system",
+      "created": 1706037777,
+      "created_iso8601": "2024-01-23T19:22:57Z"
+    },
+    {
+      "id": "gpt-4-0125-preview",
+      "owned_by": "system",
+      "created": 1706037612,
+      "created_iso8601": "2024-01-23T19:20:12Z"
+    },
+    {
+      "id": "text-embedding-3-large",
+      "owned_by": "system",
+      "created": 1705953180,
+      "created_iso8601": "2024-01-22T19:53:00Z"
+    },
+    {
+      "id": "text-embedding-3-small",
+      "owned_by": "system",
+      "created": 1705948997,
+      "created_iso8601": "2024-01-22T18:43:17Z"
+    },
     {
       "id": "tts-1-hd-1106",
       "owned_by": "system",
@@ -377,12 +153,6 @@
       "owned_by": "system",
       "created": 1698957206,
       "created_iso8601": "2023-11-02T20:33:26Z"
-    },
-    {
-      "id": "gpt-4-vision-preview",
-      "owned_by": "system",
-      "created": 1698894917,
-      "created_iso8601": "2023-11-02T03:15:17Z"
     },
     {
       "id": "dall-e-2",
